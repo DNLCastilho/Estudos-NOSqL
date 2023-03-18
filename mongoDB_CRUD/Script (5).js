@@ -1,0 +1,1 @@
+db.livrosc.find({})
